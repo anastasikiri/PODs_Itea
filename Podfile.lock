@@ -1,0 +1,20 @@
+PODS:
+  - Introspect (0.1.4)
+  - ScalingHeaderScrollView (0.0.2):
+    - Introspect
+
+DEPENDENCIES:
+  - ScalingHeaderScrollView
+
+SPEC REPOS:
+  trunk:
+    - Introspect
+    - ScalingHeaderScrollView
+
+SPEC CHECKSUMS:
+  Introspect: b62c4dd2063072327c21d618ef2bedc3c87bc366
+  ScalingHeaderScrollView: ba9daf37533b0caa13c2a40b9b4b88f076c06617
+
+PODFILE CHECKSUM: 0e66c76e10781c1abbc209f13e8a144d90e232af
+
+COCOAPODS: 1.11.3
